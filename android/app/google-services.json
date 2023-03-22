@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "644007931033",
+    "project_id": "panel-bdfe9",
+    "storage_bucket": "panel-bdfe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644007931033:android:f5668f07859100588adc08",
+        "android_client_info": {
+          "package_name": "com.example.afrigroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644007931033-f8lqie2n1qi01mv0u61k45rdil1nr6ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClyhZzgNI2_xWxTBAGfJuIP_0GNWI3Yvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644007931033-f8lqie2n1qi01mv0u61k45rdil1nr6ud.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644007931033-g96g5nuk3l6dks1i2c6e3ucee1h2heof.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.afrigroup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

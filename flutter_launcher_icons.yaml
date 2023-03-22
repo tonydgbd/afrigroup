@@ -1,0 +1,13 @@
+dev_dependencies:
+  flutter_launcher_icons: "^0.12.0"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/IMG_1125.PNG"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  web:
+    generate: true
+    image_path: "assets/IMG_1125.PNG"
+    background_color: "#hexcode"
+    theme_color: "#ffa500"
